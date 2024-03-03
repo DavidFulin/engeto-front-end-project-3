@@ -85,13 +85,13 @@ img {
 }
 
 .img-wrapped-text-left {
-  max-width: 12rem;
+  max-width: 10rem;
   float: left;
   margin: 0 0.4rem 0.4rem 0.4rem;
 }
 
 .img-wrapped-text-right {
-  max-width: 12rem;
+  max-width: 10rem;
   float: right;
   margin: 0 0.4rem 0.4rem 0.4rem;
 }
